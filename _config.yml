@@ -12,5 +12,27 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+# Navigation
+navs:
+  -
+    href: /
+    label: jump1
+
+  -
+    href: /cv/
+    label: CV
+
+  -
+    href: /publications/
+    label: Publications
+
+  -
+    href: /categories/
+    label: Blogs
+
+  -
+    href: /wiki/
+    label: Wiki
+    
 title: chao's page
 theme: jekyll-theme-architect
