@@ -15,12 +15,12 @@ include:
 # Navigation
 navs:
   -
-    href: /
+    href: jump1
     label: jump1
 
   -
-    href: /cv/
-    label: CV
+    href: /jump1
+    label: jump1
 
   -
     href: /publications/
@@ -33,6 +33,6 @@ navs:
   -
     href: /wiki/
     label: Wiki
-    
+
 title: chao's page
 theme: jekyll-theme-architect
