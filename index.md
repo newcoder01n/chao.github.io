@@ -1,43 +1,12 @@
-## Welcome to GitHub Pages
+# Home
 
-<span id="top"> 回到此处 </span>
+## STEM
 
-[开始](_posts/2022-8-7-start.md) 
+## ALPH
 
-You can use the [editor on GitHub](https://github.com/newcoder01n/chao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## PES
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 链接 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/newcoder01n/chao.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-[回到顶部](#top)
+1. [开始](_posts/2022-8-7-start.md) 
+2. [示例](_posts/2022-8-7-example.md) 
