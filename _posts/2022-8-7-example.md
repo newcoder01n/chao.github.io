@@ -2,7 +2,7 @@
 
 <span id="top"> 回到此处 </span>
 
-[开始](_posts/2022-8-7-start.md) 
+[开始](./2022-8-7-start.md) 
 
 You can use the [editor on GitHub](https://github.com/newcoder01n/chao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
